@@ -1,0 +1,1148 @@
+[
+  {
+    "id": "APPLE_IPHONE_11",
+    "brand": "Apple",
+    "model": "iPhone 11",
+    "versions": [
+      "iPhone 11 64GB",
+      "iPhone 11 128GB",
+      "iPhone 11 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_11_PRO",
+    "brand": "Apple",
+    "model": "iPhone 11 Pro",
+    "versions": [
+      "iPhone 11 Pro 64GB",
+      "iPhone 11 Pro 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_11_PRO_MAX",
+    "brand": "Apple",
+    "model": "iPhone 11 Pro Max",
+    "versions": [
+      "iPhone 11 Pro Max 64GB",
+      "iPhone 11 Pro Max 256GB",
+      "iPhone 11 Pro Max 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_12",
+    "brand": "Apple",
+    "model": "iPhone 12",
+    "versions": [
+      "iPhone 12 64GB",
+      "iPhone 12 128GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_12_MINI",
+    "brand": "Apple",
+    "model": "iPhone 12 Mini",
+    "versions": [
+      "iPhone 12 Mini 64GB",
+      "iPhone 12 Mini 128GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_12_PRO",
+    "brand": "Apple",
+    "model": "iPhone 12 Pro",
+    "versions": [
+      "iPhone 12 Pro 128GB",
+      "iPhone 12 Pro 256GB",
+      "iPhone 12 Pro 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_12_PRO_MAX",
+    "brand": "Apple",
+    "model": "iPhone 12 Pro Max",
+    "versions": [
+      "iPhone 12 Pro Max 128GB",
+      "iPhone 12 Pro Max 256GB",
+      "iPhone 12 Pro Max 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_13",
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "versions": [
+      "iPhone 13 128GB",
+      "iPhone 13 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_13_MINI",
+    "brand": "Apple",
+    "model": "iPhone 13 Mini",
+    "versions": [
+      "iPhone 13 Mini 128GB",
+      "iPhone 13 Mini 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_13_PRO",
+    "brand": "Apple",
+    "model": "iPhone 13 Pro",
+    "versions": [
+      "iPhone 13 Pro 128GB",
+      "iPhone 13 Pro 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_13_PRO_MAX",
+    "brand": "Apple",
+    "model": "iPhone 13 Pro Max",
+    "versions": [
+      "iPhone 13 Pro Max 128GB",
+      "iPhone 13 Pro Max 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_14",
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "versions": [
+      "iPhone 14 128GB",
+      "iPhone 14 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_14_PLUS",
+    "brand": "Apple",
+    "model": "iPhone 14 Plus",
+    "versions": [
+      "iPhone 14 Plus 128GB",
+      "iPhone 14 Plus 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_14_PRO",
+    "brand": "Apple",
+    "model": "iPhone 14 Pro",
+    "versions": [
+      "iPhone 14 Pro 128GB",
+      "iPhone 14 Pro 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_14_PRO_MAX",
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "versions": [
+      "iPhone 14 Pro Max 128GB",
+      "iPhone 14 Pro Max 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_14_PRO_MAX_DEMO",
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max DEMO",
+    "versions": [
+      "iPhone 14 Pro Max 128GB DEMO"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_15",
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "versions": [
+      "iPhone 15 128GB",
+      "iPhone 15 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_15_DEMO",
+    "brand": "Apple",
+    "model": "iPhone 15 DEMO",
+    "versions": [
+      "iPhone 15 128GB DEMO"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_15_PLUS",
+    "brand": "Apple",
+    "model": "iPhone 15 Plus",
+    "versions": [
+      "iPhone 15 Plus 128GB",
+      "iPhone 15 Plus 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_15_PRO",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "versions": [
+      "iPhone 15 Pro 128GB",
+      "iPhone 15 Pro 256GB",
+      "iPhone 15 Pro 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_15_PRO_DEMO",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro DEMO",
+    "versions": [
+      "iPhone 15 Pro 128GB DEMO"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_15_PRO_MAX",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "versions": [
+      "iPhone 15 Pro Max 256GB",
+      "iPhone 15 Pro Max 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_15_PRO_MAX_DEMO",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max DEMO",
+    "versions": [
+      "iPhone 15 Pro Max 256GB DEMO"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_16",
+    "brand": "Apple",
+    "model": "iPhone 16",
+    "versions": [
+      "iPhone 16 128GB",
+      "iPhone 16 256Gb"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_16E",
+    "brand": "Apple",
+    "model": "iPhone 16e",
+    "versions": [
+      "iPhone 16e 128GB",
+      "iPhone 16e 256GB",
+      "iPhone 16e 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_16_DEMO",
+    "brand": "Apple",
+    "model": "iPhone 16 Demo",
+    "versions": [
+      "iPhone 16 128GB Demo"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_16_PLUS",
+    "brand": "Apple",
+    "model": "iPhone 16 Plus",
+    "versions": [
+      "iPhone 16 Plus 128GB",
+      "iPhone 16 Plus 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_16_PRO",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro",
+    "versions": [
+      "iPhone 16 Pro 128GB",
+      "iPhone 16 Pro 256GB",
+      "iPhone 16 Pro 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_16_PRO_DEMO",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Demo",
+    "versions": [
+      "iPhone 16 Pro 256GB Demo"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_16_PRO_MAX",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "versions": [
+      "iPhone 16 Pro Max 256GB",
+      "iPhone 16 Pro Max 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_16_PRO_MAX_DEMO",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max Demo",
+    "versions": [
+      "iPhone 16 Pro Max 256GB Demo"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_17",
+    "brand": "Apple",
+    "model": "iPhone 17",
+    "versions": [
+      "iPhone 17 256GB",
+      "iPhone 17 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_17_DEMO",
+    "brand": "Apple",
+    "model": "iPhone 17 Demo",
+    "versions": [
+      "iPhone 17 Demo 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_17_PRO",
+    "brand": "Apple",
+    "model": "iPhone 17 Pro",
+    "versions": [
+      "iPhone 17 Pro 256GB",
+      "iPhone 17 Pro 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_17_PRO_DEMO",
+    "brand": "Apple",
+    "model": "iPhone 17 Pro Demo",
+    "versions": [
+      "iPhone 17 Pro Demo 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_17_PRO_MAX",
+    "brand": "Apple",
+    "model": "iPhone 17 Pro Max",
+    "versions": [
+      "iPhone 17 Pro Max 256GB",
+      "iPhone 17 Pro Max 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_AIR",
+    "brand": "Apple",
+    "model": "iPhone Air",
+    "versions": [
+      "iPhone Air 256GB",
+      "iPhone Air 512GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_AIR_DEMO",
+    "brand": "Apple",
+    "model": "iPhone Air Demo",
+    "versions": [
+      "iPhone Air Demo 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_SE_2020",
+    "brand": "Apple",
+    "model": "iPhone SE 2020",
+    "versions": [
+      "iPhone SE 2020 64GB",
+      "iPhone SE 2020 128GB",
+      "iPhone SE 2020 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_SE_2020_SAC",
+    "brand": "Apple",
+    "model": "iPhone SE 2020 SAC",
+    "versions": [
+      "iPhone SE 2020 128GB SAC",
+      "iPhone SE 2020 256GB SAC"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_SE_2022",
+    "brand": "Apple",
+    "model": "iPhone SE 2022",
+    "versions": [
+      "iPhone SE 2022 64GB",
+      "iPhone SE 2022 128GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_XR",
+    "brand": "Apple",
+    "model": "iPhone XR",
+    "versions": [
+      "iPhone XR 256GB",
+      "iPhone XR 128GB",
+      "iPhone XR 64GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_XS",
+    "brand": "Apple",
+    "model": "iPhone XS",
+    "versions": [
+      "iPhone XS 512GB",
+      "iPhone XS 256GB",
+      "iPhone XS 64GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "APPLE_IPHONE_XS_MAX",
+    "brand": "Apple",
+    "model": "iPhone XS Max",
+    "versions": [
+      "iPhone XS Max 512GB",
+      "iPhone XS Max 256GB",
+      "iPhone XS Max 64GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "HONOR_HONOR_200_5G",
+    "brand": "Honor",
+    "model": "Honor 200 5G",
+    "versions": [
+      "Honor 200 512GB 5G",
+      "Honor 200 256GB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "HONOR_HONOR_200_PRO_5G",
+    "brand": "Honor",
+    "model": "Honor 200 Pro 5G",
+    "versions": [
+      "Honor 200 Pro 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "HONOR_HONOR_400_5G",
+    "brand": "Honor",
+    "model": "Honor 400 5G",
+    "versions": [
+      "Honor 400 512GB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "HONOR_HONOR_400_5G_CB",
+    "brand": "Honor",
+    "model": "Honor 400 5G CB",
+    "versions": [
+      "Honor 400 512GB 5G CB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "HONOR_HONOR_90_5G",
+    "brand": "Honor",
+    "model": "Honor 90 5G",
+    "versions": [
+      "Honor 90 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "HONOR_MAGIC6_PRO_5G",
+    "brand": "Honor",
+    "model": "Magic6 Pro 5G",
+    "versions": [
+      "Magic6 Pro 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "HONOR_MAGIC7_PRO_5G",
+    "brand": "Honor",
+    "model": "Magic7 Pro 5G",
+    "versions": [
+      "Magic7 Pro 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "HONOR_MAGIC7_PRO_5G_CB",
+    "brand": "Honor",
+    "model": "Magic7 Pro 5G CB",
+    "versions": [
+      "Magic7 Pro 5G CB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_EDGE_40_NEO",
+    "brand": "Motorola",
+    "model": "Edge 40 Neo",
+    "versions": [
+      "Edge 40 Neo"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_EDGE_40",
+    "brand": "Motorola",
+    "model": "Moto Edge 40",
+    "versions": [
+      "Moto Edge 40"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_EDGE_50_5G",
+    "brand": "Motorola",
+    "model": "Moto Edge 50 5G",
+    "versions": [
+      "Moto Edge 50 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_EDGE_50_FUSION_5G",
+    "brand": "Motorola",
+    "model": "Moto Edge 50 Fusion 5G",
+    "versions": [
+      "Moto Edge 50 Fusion 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_EDGE_50_ULTRA_5G",
+    "brand": "Motorola",
+    "model": "Moto Edge 50 Ultra 5G",
+    "versions": [
+      "Moto Edge 50 Ultra 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_EDGE_60_5G",
+    "brand": "Motorola",
+    "model": "Moto Edge 60 5G",
+    "versions": [
+      "Moto Edge 60 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_EDGE_60_FUSION_5G",
+    "brand": "Motorola",
+    "model": "Moto Edge 60 Fusion 5G",
+    "versions": [
+      "Moto Edge 60 Fusion 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_EDGE_60_PRO_5G",
+    "brand": "Motorola",
+    "model": "Moto Edge 60 Pro 5G",
+    "versions": [
+      "Moto Edge 60 Pro 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_G55_5G",
+    "brand": "Motorola",
+    "model": "Moto G55 5G",
+    "versions": [
+      "Moto G55 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_G56_5G",
+    "brand": "Motorola",
+    "model": "Moto G56 5G",
+    "versions": [
+      "Moto G56 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_G84_5G",
+    "brand": "Motorola",
+    "model": "Moto G84 5G",
+    "versions": [
+      "Moto G84 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_RAZR",
+    "brand": "Motorola",
+    "model": "Moto Razr",
+    "versions": [
+      "Moto Razr"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_RAZR_40_ULTRA",
+    "brand": "Motorola",
+    "model": "Moto Razr 40 Ultra",
+    "versions": [
+      "Moto Razr 40 Ultra"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_RAZR_50_ULTRA_5G",
+    "brand": "Motorola",
+    "model": "Moto Razr 50 Ultra 5G",
+    "versions": [
+      "Moto Razr 50 Ultra 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_RAZR_60_5G",
+    "brand": "Motorola",
+    "model": "Moto Razr 60 5G",
+    "versions": [
+      "Moto Razr 60 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "MOTOROLA_MOTO_RAZR_60_ULTRA_5G",
+    "brand": "Motorola",
+    "model": "Moto Razr 60 Ultra 5G",
+    "versions": [
+      "Moto Razr 60 Ultra 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "OPPO_FIND_X8_PRO_5G",
+    "brand": "Oppo",
+    "model": "Find X8 Pro 5G",
+    "versions": [
+      "Find X8 Pro 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "OPPO_FIND_X9_5G",
+    "brand": "Oppo",
+    "model": "Find X9 5G",
+    "versions": [
+      "Find X9 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "OPPO_FIND_X9_PRO_5G",
+    "brand": "Oppo",
+    "model": "Find X9 Pro 5G",
+    "versions": [
+      "Find X9 Pro 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "OPPO_RENO_14F_5G",
+    "brand": "Oppo",
+    "model": "Reno 14F 5G",
+    "versions": [
+      "Reno 14F 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "OPPO_RENO_14_5G",
+    "brand": "Oppo",
+    "model": "Reno 14 5G",
+    "versions": [
+      "Reno 14 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_A55_5G",
+    "brand": "Samsung",
+    "model": "Galaxy A55 5G",
+    "versions": [
+      "Galaxy A55 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_A56_5G",
+    "brand": "Samsung",
+    "model": "Galaxy A56 5G",
+    "versions": [
+      "Galaxy A56 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_A56_5G_DEMO",
+    "brand": "Samsung",
+    "model": "Galaxy A56 5G Demo",
+    "versions": [
+      "Galaxy A56 5G Demo"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S21",
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "versions": [
+      "Galaxy S21 128GB",
+      "Galaxy S21 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S21_PLUS",
+    "brand": "Samsung",
+    "model": "Galaxy S21 Plus",
+    "versions": [
+      "Galaxy S21 Plus 128GB",
+      "Galaxy S21 Plus 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S21_ULTRA",
+    "brand": "Samsung",
+    "model": "Galaxy S21 Ultra",
+    "versions": [
+      "Galaxy S21 Ultra 128GB",
+      "Galaxy S21 Ultra 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S22",
+    "brand": "Samsung",
+    "model": "Galaxy S22",
+    "versions": [
+      "Galaxy S22 128GB",
+      "Galaxy S22 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S22_PLUS",
+    "brand": "Samsung",
+    "model": "Galaxy S22 Plus",
+    "versions": [
+      "Galaxy S22 Plus 128GB",
+      "Galaxy S22 Plus 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S22_ULTRA",
+    "brand": "Samsung",
+    "model": "Galaxy S22 Ultra",
+    "versions": [
+      "Galaxy S22 Ultra 128GB",
+      "Galaxy S22 Ultra 256GB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S23_256_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S23 256 5G",
+    "versions": [
+      "Galaxy S23 256 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S23_FE_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S23 FE 5G",
+    "versions": [
+      "Galaxy S23 FE 256GB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S23_PLUS_256_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S23 Plus 256 5G",
+    "versions": [
+      "Galaxy S23 Plus 256 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S23_PLUS_512_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S23 Plus 512 5G",
+    "versions": [
+      "Galaxy S23 Plus 512 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S23_ULTRA_256_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S23 Ultra 256 5G",
+    "versions": [
+      "Galaxy S23 Ultra 256 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S23_ULTRA_512_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S23 Ultra 512 5G",
+    "versions": [
+      "Galaxy S23 Ultra 512 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S24_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S24 5G",
+    "versions": [
+      "Galaxy S24 256GB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S24_FE_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S24 FE 5G",
+    "versions": [
+      "Galaxy S24 FE 128GB 5G",
+      "Galaxy S24 FE 256GB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S24_FE_5G_DEMO",
+    "brand": "Samsung",
+    "model": "Galaxy S24 FE 5G DEMO",
+    "versions": [
+      "Galaxy S24 FE 256GB 5G DEMO"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S24_PLUS_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S24 Plus 5G",
+    "versions": [
+      "Galaxy S24 Plus 256GB 5G",
+      "Galaxy S24 Plus 512GB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S24_ULTRA_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra 5G",
+    "versions": [
+      "Galaxy S24 Ultra 256GB 5G",
+      "Galaxy S24 Ultra 512GB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S25_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S25 5G",
+    "versions": [
+      "Galaxy S25 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S25_PLUS_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S25 Plus 5G",
+    "versions": [
+      "Galaxy S25 Plus 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_S25_ULTRA_5G",
+    "brand": "Samsung",
+    "model": "Galaxy S25 Ultra 5G",
+    "versions": [
+      "Galaxy S25 Ultra 256GB 5G",
+      "Galaxy S25 Ultra 512GB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_Z_FLIP5_512_5G",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip5 512 5G",
+    "versions": [
+      "Galaxy Z Flip5 512 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_Z_FLIP6_512_5G",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip6 512 5G",
+    "versions": [
+      "Galaxy Z Flip6 512 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_Z_FLIP6_512_5G_DEMO",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip6 512 5G DEMO",
+    "versions": [
+      "Galaxy Z Flip6 512 5G DEMO"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "SAMSUNG_GALAXY_Z_FLIP6_5G",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip6 5G",
+    "versions": [
+      "Galaxy Z Flip6 256GB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "XIAOMI_REDMI_NOTE_14_PRO_5G",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 14 Pro 5G",
+    "versions": [
+      "Redmi Note 14 Pro 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "XIAOMI_REDMI_NOTE_14_PRO_5G_CB",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 14 Pro 5G CB",
+    "versions": [
+      "Redmi Note 14 Pro 5G CB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "XIAOMI_REDMI_NOTE_15_PRO_5G",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 15 Pro 5G",
+    "versions": [
+      "Redmi Note 15 Pro 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "XIAOMI_XIAOMI_14T_5G",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14T 5G",
+    "versions": [
+      "Xiaomi 14T 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "XIAOMI_XIAOMI_14T_PRO_5G",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14T Pro 5G",
+    "versions": [
+      "Xiaomi 14T Pro 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "XIAOMI_XIAOMI_15T_CB_5G",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15T CB 5G",
+    "versions": [
+      "Xiaomi 15T CB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "XIAOMI_XIAOMI_15T_PRO_CB_5G",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15T Pro CB 5G",
+    "versions": [
+      "Xiaomi 15T Pro CB 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "XIAOMI_XIAOMI_15_5G",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15 5G",
+    "versions": [
+      "Xiaomi 15 5G"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  },
+  {
+    "id": "XIAOMI_XIAOMI_15_5G_CB",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15 5G CB",
+    "versions": [
+      "Xiaomi 15 5G CB"
+    ],
+    "esim": true,
+    "source": "Terminales esim 20 Ene 2026"
+  }
+]

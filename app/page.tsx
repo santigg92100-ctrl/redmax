@@ -11,9 +11,15 @@ import {
   Users,
 } from "lucide-react";
 import Image from "next/image";
+import devices from "./celulares_esim/esim-devices.json";
+import EsimDevicesClient, {
+  type EsimDevice,
+} from "./celulares_esim/EsimDevicesClient";
 
 const whatsappUrl =
   "https://wa.me/522223846617?text=Hola%20RedMax%2C%20quiero%20informaci%C3%B3n%20sobre%20sus%20planes.";
+
+const esimDevices = devices as EsimDevice[];
 
 const benefits = [
   {
@@ -239,6 +245,9 @@ export default function Home() {
             <a className="hover:text-blue-700" href="#planes">
               Planes
             </a>
+            <a className="hover:text-blue-700" href="#celulares_esim">
+              eSIM
+            </a>
             <a className="hover:text-blue-700" href="#contacto">
               Contacto
             </a>
@@ -459,6 +468,56 @@ export default function Home() {
           </p>
         </div>
       </section>
+
+      <section className="px-5 py-20 sm:px-6 lg:px-8">
+        <div
+          id="celulares_esim"
+          className="mx-auto grid max-w-7xl scroll-mt-28 gap-10 lg:grid-cols-[0.95fr_1.05fr] lg:items-end"
+        >
+          <div>
+            <SectionLabel>Celulares compatibles con eSIM</SectionLabel>
+            <h2 className="max-w-4xl text-3xl font-semibold tracking-tight text-gray-950 sm:text-5xl">
+              Revisa si tu equipo puede activarse con eSIM.
+            </h2>
+            <p className="mt-5 max-w-2xl text-lg leading-8 text-gray-600">
+              Consulta la lista de equipos compatibles antes de iniciar tu
+              activación. Puedes buscar por marca, modelo o versión del celular.
+            </p>
+          </div>
+          <div className="rounded-[2rem] bg-gray-950 p-7 text-white shadow-2xl shadow-gray-950/10 sm:p-8">
+            <div className="grid h-12 w-12 place-items-center rounded-2xl bg-blue-500/15 text-blue-300">
+              <Signal className="h-6 w-6" aria-hidden="true" />
+            </div>
+            <p className="mt-7 text-5xl font-semibold tracking-tight">
+              {esimDevices.length}
+            </p>
+            <p className="mt-2 text-sm font-medium text-gray-300">
+              equipos compatibles registrados
+            </p>
+            <p className="mt-6 border-t border-white/10 pt-5 text-sm leading-6 text-gray-300">
+              La compatibilidad puede depender de la versión del equipo,
+              región, operador, bloqueo, software o configuración del
+              dispositivo.
+            </p>
+          </div>
+        </div>
+
+        <div className="mx-auto mt-8 max-w-7xl rounded-[1.5rem] border border-blue-100 bg-blue-50 p-5 text-blue-950">
+          <div className="flex gap-3">
+            <ShieldCheck
+              className="mt-0.5 h-5 w-5 shrink-0 text-blue-600"
+              aria-hidden="true"
+            />
+            <p className="text-sm leading-6">
+              Los equipos de esta tabla aparecen como compatibles con eSIM.
+              Antes de activar, confirma que la versión exacta de tu celular y
+              su configuración permitan usar eSIM.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <EsimDevicesClient devices={esimDevices} />
 
       <section id="contacto" className="bg-slate-50 px-5 py-20 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-2xl">
