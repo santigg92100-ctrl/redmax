@@ -7,19 +7,17 @@ import {
   Rocket,
   ShieldCheck,
   Signal,
-  Sparkles,
   Users,
 } from "lucide-react";
-import Image from "next/image";
-import devices from "./celulares_esim/esim-devices.json";
-import EsimDevicesClient, {
-  type EsimDevice,
-} from "./celulares_esim/EsimDevicesClient";
-
-const whatsappUrl =
-  "https://wa.me/522223846617?text=Hola%20RedMax%2C%20quiero%20informaci%C3%B3n%20sobre%20sus%20planes.";
-
-const esimDevices = devices as EsimDevice[];
+import {
+  BrandName,
+  PrimaryButton,
+  SecondaryButton,
+  SectionLabel,
+  SiteFooter,
+  SiteHeader,
+  whatsappUrl,
+} from "./components/SiteChrome";
 
 const benefits = [
   {
@@ -105,74 +103,6 @@ const plans = [
   },
 ];
 
-function Logo() {
-  return (
-    <a
-      className="inline-flex h-20 min-w-64 items-center px-0 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-4"
-      href="#inicio"
-      aria-label="RedMax inicio"
-    >
-      <span className="relative block h-16 w-56">
-        <Image
-          src="/redmax-logo.png"
-          alt="RedMax"
-          fill
-          priority
-          className="object-contain object-left"
-        />
-      </span>
-    </a>
-  );
-}
-
-function BrandName() {
-  return <span className="font-semibold text-blue-600">RedMax</span>;
-}
-
-function SectionLabel({ children }: { children: React.ReactNode }) {
-  return (
-    <p className="mb-4 inline-flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1 text-sm font-medium text-blue-700">
-      <Sparkles className="h-4 w-4" aria-hidden="true" />
-      {children}
-    </p>
-  );
-}
-
-function PrimaryButton({
-  href,
-  children,
-}: {
-  href: string;
-  children: React.ReactNode;
-}) {
-  return (
-    <a
-      className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-blue-600 px-6 text-sm font-semibold text-white shadow-lg shadow-blue-600/20 transition duration-200 hover:-translate-y-0.5 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-4"
-      href={href}
-    >
-      {children}
-      <ArrowRight className="h-4 w-4" aria-hidden="true" />
-    </a>
-  );
-}
-
-function SecondaryButton({
-  href,
-  children,
-}: {
-  href: string;
-  children: React.ReactNode;
-}) {
-  return (
-    <a
-      className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-gray-200 bg-white px-6 text-sm font-semibold text-gray-950 shadow-sm transition duration-200 hover:-translate-y-0.5 hover:border-blue-200 hover:text-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-4"
-      href={href}
-    >
-      {children}
-    </a>
-  );
-}
-
 function PhoneMockup() {
   return (
     <div className="relative mx-auto w-full max-w-sm" aria-hidden="true">
@@ -232,39 +162,12 @@ function PhoneMockup() {
 export default function Home() {
   return (
     <main className="min-h-screen bg-white text-gray-950">
-      <header className="sticky top-0 z-50 border-b border-gray-100 bg-white/85 backdrop-blur-xl">
-        <nav
-          className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 sm:px-6 lg:px-8"
-          aria-label="Principal"
-        >
-          <Logo />
-          <div className="hidden items-center gap-8 text-sm font-medium text-gray-600 md:flex">
-            <a className="hover:text-blue-700" href="#beneficios">
-              Beneficios
-            </a>
-            <a className="hover:text-blue-700" href="#planes">
-              Planes
-            </a>
-            <a className="hover:text-blue-700" href="#celulares_esim">
-              eSIM
-            </a>
-            <a className="hover:text-blue-700" href="#contacto">
-              Contacto
-            </a>
-          </div>
-          <a
-            className="inline-flex h-10 items-center justify-center gap-2 rounded-full bg-gray-950 px-4 text-sm font-semibold text-white transition hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-4"
-            href={whatsappUrl}
-            target="_blank"
-            rel="noreferrer"
-          >
-            <MessageCircle className="h-4 w-4" aria-hidden="true" />
-            <span className="hidden sm:inline">WhatsApp</span>
-          </a>
-        </nav>
-      </header>
+      <SiteHeader />
 
-      <section id="inicio" className="overflow-hidden px-5 py-16 sm:px-6 sm:py-20 lg:px-8">
+      <section
+        id="inicio"
+        className="overflow-hidden px-5 py-16 sm:px-6 sm:py-20 lg:px-8"
+      >
         <div className="mx-auto grid max-w-7xl items-center gap-12 lg:grid-cols-[1.02fr_0.98fr]">
           <div>
             <SectionLabel>Conectando Personas</SectionLabel>
@@ -300,7 +203,10 @@ export default function Home() {
         </div>
       </section>
 
-      <section id="beneficios" className="bg-slate-50 px-5 py-20 sm:px-6 lg:px-8">
+      <section
+        id="beneficios"
+        className="bg-slate-50 px-5 py-20 sm:px-6 lg:px-8"
+      >
         <div className="mx-auto max-w-7xl">
           <div className="max-w-2xl">
             <SectionLabel>Simple desde el primer día</SectionLabel>
@@ -357,7 +263,10 @@ export default function Home() {
         </div>
       </section>
 
-      <section id="planes" className="bg-slate-50 px-5 py-20 sm:px-6 lg:px-8">
+      <section
+        id="planes"
+        className="bg-slate-50 px-5 py-20 sm:px-6 lg:px-8"
+      >
         <div className="mx-auto max-w-7xl">
           <div className="mx-auto max-w-2xl text-center">
             <SectionLabel>Portabilidad Movistar</SectionLabel>
@@ -483,16 +392,21 @@ export default function Home() {
               Consulta la lista de equipos compatibles antes de iniciar tu
               activación. Puedes buscar por marca, modelo o versión del celular.
             </p>
+            <div className="mt-8">
+              <PrimaryButton href="/celulares_esim">
+                Ver celulares compatibles
+              </PrimaryButton>
+            </div>
           </div>
           <div className="rounded-[2rem] bg-gray-950 p-7 text-white shadow-2xl shadow-gray-950/10 sm:p-8">
             <div className="grid h-12 w-12 place-items-center rounded-2xl bg-blue-500/15 text-blue-300">
               <Signal className="h-6 w-6" aria-hidden="true" />
             </div>
-            <p className="mt-7 text-5xl font-semibold tracking-tight">
-              {esimDevices.length}
+            <p className="mt-7 text-4xl font-semibold tracking-tight">
+              Consulta por marca
             </p>
             <p className="mt-2 text-sm font-medium text-gray-300">
-              equipos compatibles registrados
+              página interna de compatibilidad
             </p>
             <p className="mt-6 border-t border-white/10 pt-5 text-sm leading-6 text-gray-300">
               La compatibilidad puede depender de la versión del equipo,
@@ -509,17 +423,18 @@ export default function Home() {
               aria-hidden="true"
             />
             <p className="text-sm leading-6">
-              Los equipos de esta tabla aparecen como compatibles con eSIM.
-              Antes de activar, confirma que la versión exacta de tu celular y
-              su configuración permitan usar eSIM.
+              En la página interna encontrarás los equipos marcados como
+              compatibles con eSIM. Antes de activar, confirma que la versión
+              exacta de tu celular y su configuración permitan usar eSIM.
             </p>
           </div>
         </div>
       </section>
 
-      <EsimDevicesClient devices={esimDevices} />
-
-      <section id="contacto" className="bg-slate-50 px-5 py-20 sm:px-6 lg:px-8">
+      <section
+        id="contacto"
+        className="bg-slate-50 px-5 py-20 sm:px-6 lg:px-8"
+      >
         <div className="mx-auto max-w-2xl">
           <div className="rounded-[2rem] border border-gray-100 bg-white p-6 shadow-xl shadow-gray-950/[0.04] sm:p-8">
             <div className="grid h-14 w-14 place-items-center rounded-2xl bg-blue-50 text-blue-600">
@@ -560,37 +475,7 @@ export default function Home() {
         </div>
       </section>
 
-      <footer className="border-t border-gray-100 px-5 py-10 sm:px-6 lg:px-8">
-        <div className="mx-auto flex max-w-7xl flex-col gap-8 md:flex-row md:items-center md:justify-between">
-          <div>
-            <Logo />
-            <p className="mt-3 text-sm text-gray-500">Conectando Personas</p>
-          </div>
-          <div className="flex flex-wrap items-center gap-4 text-sm font-medium text-gray-600">
-            <a
-              className="hover:text-blue-700"
-              href="https://www.instagram.com/"
-              target="_blank"
-              rel="noreferrer"
-              aria-label="Instagram"
-            >
-              Instagram
-            </a>
-            <a
-              className="hover:text-blue-700"
-              href={whatsappUrl}
-              target="_blank"
-              rel="noreferrer"
-              aria-label="WhatsApp"
-            >
-              <MessageCircle className="h-5 w-5" aria-hidden="true" />
-            </a>
-            <a className="hover:text-blue-700" href="#">
-              Aviso de privacidad
-            </a>
-          </div>
-        </div>
-      </footer>
+      <SiteFooter />
     </main>
   );
 }
